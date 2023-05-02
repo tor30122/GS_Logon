@@ -17,13 +17,18 @@ I denne oppgaven skal du laste ned kode fra ditt eget GitHub-repo, endre koden s
 1. Gå til det personlige GitHub-repositoriet og **klon** det til din lokale maskin.
 2. Åpne prosjektet i ditt foretrukne kode-redigeringsprogram.
 3. Implementer **passord-hashing** for økt sikkerhet:
+   
    a. Utforsk og velg en sikker og moderne hashing-algoritme.
+   
    b. Endre koden slik at passord-hashing blir brukt når brukere registrerer seg og logger inn.
+   
 4. Identifiser og skriv ned **forbedringsforslag** for nettsiden. Disse presenterer du for klienten før du går videre.
 5. Velg minst én av forbedringsforslagene og **implementer** det i koden.
 6. Test endringene grundig for å sikre at nettsiden fungerer som forventet etter hver endring.
 7. Bruk **versjonskontroll** med Git for å holde oversikt over endringene:
+   
    a. Gjør regelmessige **commits** med klare og beskrivende commit-meldinger.
+   
    b. Push endringene til GitHub-repositoriet når du er ferdig med oppgaven.
 
 # Sjekkliste for levering
@@ -38,9 +43,10 @@ I denne oppgaven skal du laste ned kode fra ditt eget GitHub-repo, endre koden s
 3. Forbedringsforslag:
    - Liste med minst tre forbedringsforslag.
    - Kort begrunnelse for hvert forslag.
+   - Lastes opp på Teams
 4. Kort video-demonstrasjon:
    - Viser at løsningen fungerer.
-   - Lastet opp til Teams.
+   - Lastet opp på Teams.
 
 
 # Vurdering
@@ -48,7 +54,7 @@ Oppgaven blir i vurdert godkjent/ikke godkjent, etter følgende kriterier:
 
 | Kriterium         | Ikke godkjent                                | Godkjent                                              | Godkjent +                                                      |
 |-------------------|----------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------|
-| 1. Passord-hashing | Passord-hashing er ikke implementert.       | Passord-hashing er implementert og fungerer.         | Passord-hashing er implementert og fungerer, og bruker en sikker og moderne hashing-algoritme. |
-| 2. Forbedringsforslag | Ingen forbedringsforslag er skrevet ned. | Minst tre forbedringsforslag er skrevet ned.          | Flere enn tre forbedringsforslag er skrevet ned, og de er relevante og godt begrunnet. |
-| 3. Implementering | Ingen forbedringer er implementert.         | Minst én forbedring er implementert og fungerer.      | Flere forbedringer er implementert og fungerer, og de forbedrer nettsiden betydelig. |
-| 4. Versjonskontroll | Ingen commits er gjort i GitHub.            | Minst én commit er gjort i GitHub, med en kort beskrivelse av endringene. | Flere commits er gjort i GitHub, med klare og beskrivende commit-meldinger som viser fremdrift i arbeidet. |
+| Passord-hashing | Passord-hashing er ikke implementert.       | Passord-hashing er implementert og fungerer.         | Passord-hashing er implementert og fungerer, og bruker en sikker og moderne hashing-algoritme. |
+| Forbedringsforslag | Ingen forbedringsforslag er skrevet ned. | Minst tre forbedringsforslag er skrevet ned.          | Flere enn tre forbedringsforslag er skrevet ned, og de er relevante og godt begrunnet. |
+| Implementering | Ingen forbedringer er implementert.         | Minst én forbedring er implementert og fungerer.      | Flere forbedringer er implementert og fungerer, og de forbedrer nettsiden betydelig. |
+| Versjonskontroll | Ingen commits er gjort i GitHub.            | Minst én commit er gjort i GitHub, med en kort beskrivelse av endringene. | Flere commits er gjort i GitHub, med klare og beskrivende commit-meldinger som viser fremdrift i arbeidet. |
