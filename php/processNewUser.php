@@ -9,8 +9,6 @@ $newUsername = $_GET["user"];
 $newPassword1 = $_GET["password1"];
 $newPassword2 = $_GET["password2"];
 
-// $hashedPasssword = password_hash($newPassword1, PASSWORD_DEFAULT);
-
 include "elements/head.html"; // Common HTML elements
 ?>
 
